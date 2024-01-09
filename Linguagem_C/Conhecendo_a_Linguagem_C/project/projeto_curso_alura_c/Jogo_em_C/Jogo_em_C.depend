@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1704816761 source:g:\meu drive\alura\linguagem_c\conhecendo_a_linguagem_c\project\projeto_curso_alura_c\jogo_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1704662241 source:g:\meu drive\alura\linguagem_c\conhecendo_a_linguagem_c\project\projeto_curso_alura_c\jogo_em_c\teste.c
+
+1704574409 g:\meu drive\alura\linguagem_c\conhecendo_a_linguagem_c\project\projeto_curso_alura_c\jogo_em_c\teste.c
+	<stdio.h>
+
